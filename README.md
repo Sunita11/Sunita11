@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunita11
 - 👀 I’m interested in watching netflix and prime :P
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on react/flutter.
+- 🌱 I’m currently learning NodeJS and MongoDB.
+- 💞️ I’m looking to collaborate on NodeJS.
 - 📫 How to reach me  sunita2210sharma@gmail.com
 
 <!---
